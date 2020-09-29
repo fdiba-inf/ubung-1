@@ -1,4 +1,5 @@
 # Übung 1
+Quellcode der Vorlesung: https://github.com/fdiba-inf/vorlesung
 
 ## Allgemeines
 In diesem Semester haben Sie Übungen zur Vorlesung _Einführung in die Informatik_: 3 Stunden Vorlesung, 1 Stunde Seminarübung und 2 Stunden Laborübung pro Woche. 
