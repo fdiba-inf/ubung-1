@@ -49,7 +49,7 @@ _GitHub (github.com)_ ist eine Internetplattform, wo der Quellcode eines Program
 **Jeder Student muss die Lösung jeder Übung in GitHub hochladen, damit sie anerkannt wird!**
 
 ## Repl.it öffnen
-Klicken Sie https://repl.it/auth/github/get. Wählen Sie Ihres Repository.
+Klicken Sie https://repl.it/auth/github/get. Wählen Sie Ihres Repository **fdiba-inf/ubung-1-{GitHub Benutzername}** under _run your repos_.
 
 ## Aufgabe 1. Hallo Welt
 Gehen Sie zum Verzeichnis _src/exercise1_.\
