@@ -97,8 +97,12 @@ Erstellen Sie eine neue Klasse mit dem Namen _Tree_ im Paket _exercise1_. Sie so
    ***
 ``` 
 ## Achtung! Achtung! Achtung!
-Wenn Sie alle Aufgaben gemacht haben, sollen Sie die Lösungen in _GitHub_ hochladen. Geben Sie in der Konsole folgenden Befehl ein:
+Wenn Sie alle Aufgaben gemacht haben, sollen Sie die Lösungen in _GitHub_ hochladen. Geben Sie in der Konsole folgende Befehle ein:
 ``` 
-git status && git pull && git commit -a -m "Files updated" && git push
+git status
+git pull
+git add .
+git commit -m "Files updated"
+git push
 ```
 Geben Sie Ihr Konto und Token ein.
