@@ -1,13 +1,6 @@
 # Übung 1
 Quellcode der Vorlesung: https://github.com/fdiba-inf/vorlesung
 
-## Allgemeines
-In diesem Semester haben Sie Übungen zur Vorlesung _Einführung in die Informatik_: 3 Stunden Vorlesung, 1 Stunde Seminarübung und 2 Stunden Laborübung pro Woche. 
-Die Laborübungen werden für 5 Gruppen von Studenten durchgeführt. 
-Leiter der Veranstaltungen ist _Mag. Ing. St. Georgiev_ (email: **stefan.georgiev91@gmail.com**). 
-Sie können das aktuelle Programm unter _fdiba.tu-sofia.bg_ finden. 
-**Die Anwesenheit ist obligatorisch!**
-
 ## Deutsche Begriffe
 * Benutzername (username)
 * Passwort (password)
