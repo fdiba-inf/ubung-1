@@ -101,5 +101,4 @@ Wenn Sie alle Aufgaben gemacht haben, sollen Sie die Lösungen in _GitHub_ hochl
 ``` 
 git status && git pull && git commit -a -m "Files updated" && git push
 ```
-
-
+Geben Sie Ihr GitHub Konto und Token ein.
