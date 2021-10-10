@@ -4,7 +4,7 @@ Quellcode der Vorlesung: https://github.com/fdiba-inf/vorlesung
 ## Allgemeines
 In diesem Semester haben Sie Laborübungen zur Vorlesung _Einführung in die Informatik_. 
 Leiter der Veranstaltungen ist _Mag. Ing. St. Georgiev_ (email: **stefan.georgiev91@gmail.com**). 
-Sie können das aktuelle Programm unter _programm.fdiba.tu-sofia.bg_ finden. 
+Sie können das aktuelle Programm unter https://programm.fdiba.tu-sofia.bg finden. 
 **Die Anwesenheit ist obligatorisch!**
 
 ## Deutsche Begriffe
@@ -45,8 +45,11 @@ In den Übungen wird mit **Repl.it** gearbeitet.
 Eine Java Applikation besteht aus mehrere **Klassen**, die in **Pakete** gruppiert werden. 
 Als Referenz für verschiedene Pakete und Klassen können Sie die Dokumentation von _Java_ nutzen. 
 Ein leichter Weg zur gewünschten Webseite ist in _Google_ Search das Wort _„java“_ und den Namen der Klasse, deren Information Sie brauchen, einzutragen. 
-_GitHub (github.com)_ ist eine Internetplattform, wo der Quellcode eines Programms hochgeladen werden kann. 
+_GitHub_ ist eine Internetplattform, wo der Quellcode eines Programms hochgeladen werden kann. 
 **Jeder Student muss die Lösung jeder Übung in GitHub hochladen, damit sie anerkannt wird!**
+
+## GitHub Konto
+Gehen Sie zu https://github.com und erstellen Sie ein Konto. Generieren Sie ein Token, das beim Hoshladen der Lösungen verwendet wird: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 ## Repl.it öffnen
 Klicken Sie https://repl.it/auth/github/get. Wählen Sie Ihres Repository **fdiba-inf/ubung-1-{GitHub Benutzername}** unter **GitHub repos**.
