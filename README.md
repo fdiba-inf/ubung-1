@@ -49,7 +49,7 @@ _GitHub_ ist eine Internetplattform, wo der Quellcode eines Programms hochgelade
 **Jeder Student muss die Lösung jeder Übung in GitHub hochladen, damit sie anerkannt wird!**
 
 ## GitHub Konto
-Gehen Sie zu https://github.com und erstellen Sie ein Konto. Generieren Sie ein Token, das beim Hoshladen der Lösungen verwendet wird: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+Gehen Sie zu https://github.com und erstellen Sie ein **Konto**. Generieren Sie ein **Token**, das beim Hoshladen der Lösungen verwendet wird: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 ## Repl.it öffnen
 Klicken Sie https://repl.it/auth/github/get. Wählen Sie Ihres Repository **fdiba-inf/ubung-1-{GitHub Benutzername}** unter **GitHub repos**.
